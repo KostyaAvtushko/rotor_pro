@@ -1,0 +1,28 @@
+com/rotor/serwingwebcontent/Controllers/UserController.java
+ com.rotor.serwingwebcontent.Controllers.UserController
+com/rotor/serwingwebcontent/config/Mailconfig.java
+ com.rotor.serwingwebcontent.config.Mailconfig
+com/rotor/serwingwebcontent/service/UserService.java
+ com.rotor.serwingwebcontent.service.UserService
+com/rotor/serwingwebcontent/roles/Roles.java
+ com.rotor.serwingwebcontent.roles.Roles
+com/rotor/serwingwebcontent/service/MailSender.java
+ com.rotor.serwingwebcontent.service.MailSender
+com/rotor/serwingwebcontent/secure/WebSecurityConfig.java
+ com.rotor.serwingwebcontent.secure.WebSecurityConfig
+com/rotor/serwingwebcontent/repositories/ItemRepo.java
+ com.rotor.serwingwebcontent.repositories.ItemRepo
+com/rotor/serwingwebcontent/ServingWebContentApplication.java
+ com.rotor.serwingwebcontent.ServingWebContentApplication
+com/rotor/serwingwebcontent/Controllers/RegController.java
+ com.rotor.serwingwebcontent.Controllers.RegController
+com/rotor/serwingwebcontent/entity/Item.java
+ com.rotor.serwingwebcontent.entity.Item
+com/rotor/serwingwebcontent/Controllers/MainController.java
+ com.rotor.serwingwebcontent.Controllers.MainController
+com/rotor/serwingwebcontent/repositories/UserRepo.java
+ com.rotor.serwingwebcontent.repositories.UserRepo
+com/rotor/serwingwebcontent/entity/User.java
+ com.rotor.serwingwebcontent.entity.User
+com/rotor/serwingwebcontent/secure/MvcConfig.java
+ com.rotor.serwingwebcontent.secure.MvcConfig
